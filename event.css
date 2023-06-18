@@ -1,0 +1,122 @@
+.event{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ind{
+    width: 40%;
+    margin-left: 5rem;
+}
+
+.air{
+    width: 40%;
+    margin-left: 50rem;
+    margin-top: -390px;
+}
+
+.event2{
+    width: 50%;
+
+    margin-left: 2rem;
+}
+
+.gad{
+    
+    position: relative;
+  top: -350px;
+  margin-right: 10px;
+  margin-left: 800px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 35px;
+  justify-content: center;
+  display: flex;
+}
+
+.des{
+    font-family: Poppins sans-serif;
+    bottom: 200px;
+    margin-top: -60px;
+    font-size: 20px;
+    margin-right: 5rem;
+    margin-right: 5rem;
+}
+.match{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: Poppins sans-serif;
+    font-size: 40px;
+}
+
+.m1{
+    width: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 350px;
+    background-color: grey;
+}
+
+
+.m2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.world 
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    font-family: Poppins sans-serif;
+}
+
+.w1{
+    width:50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   margin-left: 350px;
+}
+
+.info{
+    text-align: center;
+    font-size: 20px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ram {
+    width: 50%;
+}
+
+
+.update{
+    
+    position: relative;
+  top: -450px;
+  margin-left: 700px;
+  margin-right: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+  justify-content: center;
+  display: flex;
+}
+
+
+.ram1{
+    font-size: 25px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

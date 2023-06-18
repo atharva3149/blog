@@ -1,0 +1,155 @@
+.profile{
+    width: 50%;
+    margin-left: 370px;
+    height: 300px;
+}
+
+.news{
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    font-family: Poppins sans-serif;
+}
+
+.news1{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.politic{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.news1:hover{
+    color: blue;
+}
+
+.politic:hover{
+    color: red;
+}
+
+span.alt{
+    color: blue;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.trump{
+    align-items: center;
+    font-size: 20px;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+.profile1{
+    margin-right: 800px;
+    padding: 18px;
+}
+
+.news2{
+    margin-left: 800px;
+    position: relative;
+  top: -350px;
+  margin-right: 10px;
+  margin-left: 700px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 35px;
+  justify-content: center;
+  display: flex;
+}
+
+.modi{
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+    align-items: center;
+    font-size: 20px;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    
+}
+
+h3{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.tech{
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+    align-items: center;
+    font-size: 20px;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+.profile2{
+  
+        margin-left: 800px;
+        padding: 18px;
+    
+}
+
+
+.news3{
+    margin-left: 800px;
+    position: relative;
+  top: -350px;
+  margin-left: 10px;
+  margin-right: 700px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
+  justify-content: center;
+  display: flex;
+}
+
+
+.plane{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: 200px;
+    margin-top: -180px;
+    font-size: 20px;
+}
+
+.profile-img1{
+    width: 50%;
+    margin-top: -10px;
+
+}
+
+.news4{
+ 
+  margin-left: -800px;
+    justify-content: center;
+}
+
+.covid1{
+    
+    margin-left: 800px;
+    height: 600px;  
+    width: 40%;
+    margin-top: -490px;
+}
+
+.imp::before{
+    content: "\00B12";
+    font-size: 1.7rem;
+    margin-right: 5px;
+    
+}
+
+.news5{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 35px;
+}
+
+.plane1{
+    margin-top: 100px;
+    font-size: 20px;
+    justify-content: center;
+    font-weight: 700;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
